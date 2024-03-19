@@ -1,2 +1,2 @@
 console.log("Hello EC2");
-console.log("Something new");
+console.log("Something newer");
